@@ -1,0 +1,2 @@
+2024-09-10 14:30:21 - ERROR - Artifact file not found: artifacts\data_processing_pipeline.pkl
+2024-09-12 17:01:51 - ERROR - Artifact file not found: artifacts\data_processing_pipeline.pkl

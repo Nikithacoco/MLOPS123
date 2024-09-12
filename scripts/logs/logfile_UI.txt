@@ -1,0 +1,290 @@
+2024-09-06 20:48:23 - INFO - Calling UI main
+2024-09-06 20:48:23 - INFO - Pipeline loaded successfully
+2024-09-06 20:48:23 - INFO - Model loaded successfully
+2024-09-06 20:48:23 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:00 - INFO - Calling UI main
+2024-09-06 20:49:00 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:01 - INFO - Model loaded successfully
+2024-09-06 20:49:01 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:10 - INFO - Calling UI main
+2024-09-06 20:49:10 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:10 - INFO - Model loaded successfully
+2024-09-06 20:49:10 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:13 - INFO - Calling UI main
+2024-09-06 20:49:13 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:13 - INFO - Model loaded successfully
+2024-09-06 20:49:13 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:16 - INFO - Calling UI main
+2024-09-06 20:49:16 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:16 - INFO - Model loaded successfully
+2024-09-06 20:49:16 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:19 - INFO - Calling UI main
+2024-09-06 20:49:19 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:19 - INFO - Model loaded successfully
+2024-09-06 20:49:19 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:22 - INFO - Calling UI main
+2024-09-06 20:49:22 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:22 - INFO - Model loaded successfully
+2024-09-06 20:49:22 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:26 - INFO - Calling UI main
+2024-09-06 20:49:26 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:26 - INFO - Model loaded successfully
+2024-09-06 20:49:26 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:29 - INFO - Calling UI main
+2024-09-06 20:49:29 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:29 - INFO - Model loaded successfully
+2024-09-06 20:49:29 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:33 - INFO - Calling UI main
+2024-09-06 20:49:33 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:33 - INFO - Model loaded successfully
+2024-09-06 20:49:33 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:37 - INFO - Calling UI main
+2024-09-06 20:49:37 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:37 - INFO - Model loaded successfully
+2024-09-06 20:49:37 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:44 - INFO - Calling UI main
+2024-09-06 20:49:44 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:44 - INFO - Model loaded successfully
+2024-09-06 20:49:44 - INFO - Label Encoder loaded successfully
+2024-09-06 20:49:48 - INFO - Calling UI main
+2024-09-06 20:49:48 - INFO - Pipeline loaded successfully
+2024-09-06 20:49:48 - INFO - Model loaded successfully
+2024-09-06 20:49:48 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:05 - INFO - Calling UI main
+2024-09-06 20:50:05 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:05 - INFO - Model loaded successfully
+2024-09-06 20:50:05 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:05 - INFO - Calling UI main
+2024-09-06 20:50:05 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:05 - INFO - Model loaded successfully
+2024-09-06 20:50:05 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:06 - INFO - Calling UI main
+2024-09-06 20:50:06 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:06 - INFO - Calling UI main
+2024-09-06 20:50:06 - INFO - Model loaded successfully
+2024-09-06 20:50:06 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:06 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:06 - INFO - Calling UI main
+2024-09-06 20:50:06 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:06 - INFO - Model loaded successfully
+2024-09-06 20:50:06 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:06 - INFO - Model loaded successfully
+2024-09-06 20:50:06 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:06 - INFO - Calling UI main
+2024-09-06 20:50:06 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:06 - INFO - Model loaded successfully
+2024-09-06 20:50:06 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:08 - INFO - Calling UI main
+2024-09-06 20:50:08 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:08 - INFO - Model loaded successfully
+2024-09-06 20:50:08 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:08 - INFO - Calling UI main
+2024-09-06 20:50:08 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:08 - INFO - Model loaded successfully
+2024-09-06 20:50:08 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:08 - INFO - Calling UI main
+2024-09-06 20:50:08 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:08 - INFO - Model loaded successfully
+2024-09-06 20:50:08 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:08 - INFO - Calling UI main
+2024-09-06 20:50:08 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:08 - INFO - Model loaded successfully
+2024-09-06 20:50:08 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:15 - INFO - Calling UI main
+2024-09-06 20:50:15 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:15 - INFO - Model loaded successfully
+2024-09-06 20:50:15 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:20 - INFO - Calling UI main
+2024-09-06 20:50:20 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:20 - INFO - Model loaded successfully
+2024-09-06 20:50:20 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:20 - INFO - Calling UI main
+2024-09-06 20:50:20 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:20 - INFO - Calling UI main
+2024-09-06 20:50:20 - INFO - Model loaded successfully
+2024-09-06 20:50:20 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:20 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:20 - INFO - Model loaded successfully
+2024-09-06 20:50:20 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:20 - INFO - Calling UI main
+2024-09-06 20:50:20 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:20 - INFO - Model loaded successfully
+2024-09-06 20:50:20 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:20 - INFO - Calling UI main
+2024-09-06 20:50:20 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:20 - INFO - Model loaded successfully
+2024-09-06 20:50:20 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:36 - INFO - Calling UI main
+2024-09-06 20:50:36 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:36 - INFO - Model loaded successfully
+2024-09-06 20:50:36 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:42 - INFO - Calling UI main
+2024-09-06 20:50:42 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:42 - INFO - Model loaded successfully
+2024-09-06 20:50:42 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:42 - INFO - Calling UI main
+2024-09-06 20:50:42 - INFO - Pipeline loaded successfully
+2024-09-06 20:50:42 - INFO - Model loaded successfully
+2024-09-06 20:50:42 - INFO - Label Encoder loaded successfully
+2024-09-06 20:50:42 - INFO - User input data frame created
+2024-09-06 20:50:42 - INFO - User input data frame is transformed
+2024-09-06 20:50:42 - INFO - Received Prediction: [0]
+2024-09-06 20:50:42 - INFO - Prediction Decoded: ['no']
+2024-09-10 14:49:54 - INFO - Calling UI main
+2024-09-10 14:49:55 - INFO - Pipeline loaded successfully
+2024-09-10 14:49:55 - INFO - Model loaded successfully
+2024-09-10 14:49:55 - INFO - Label Encoder loaded successfully
+2024-09-10 14:50:04 - INFO - Calling UI main
+2024-09-10 14:50:04 - INFO - Pipeline loaded successfully
+2024-09-10 14:50:04 - INFO - Model loaded successfully
+2024-09-10 14:50:04 - INFO - Label Encoder loaded successfully
+2024-09-10 14:50:04 - INFO - User input data frame created
+2024-09-10 14:50:04 - INFO - User input data frame is transformed
+2024-09-10 14:50:04 - INFO - Received Prediction: [0]
+2024-09-10 14:50:04 - INFO - Prediction Decoded: ['no']
+2024-09-10 15:06:57 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:06:57 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:06:57 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:07:01 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:07:01 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:07:01 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:07:10 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:07:10 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:07:10 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:07:18 - INFO - User input data frame created
+2024-09-10 15:07:18 - INFO - User input data frame is transformed
+2024-09-10 15:07:18 - INFO - Received Prediction: [0]
+2024-09-10 15:07:18 - INFO - Prediction Decoded: ['no']
+2024-09-10 15:07:22 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:07:22 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:07:22 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:15:56 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:15:56 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:15:56 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:16:27 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:16:27 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:16:27 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:16:48 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:16:48 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:16:48 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:16:51 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:16:51 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:16:51 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:17:04 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:17:04 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:17:04 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:17:04 - INFO - Batch file uploaded with 14 records
+2024-09-10 15:17:04 - DEBUG - Starting new HTTP connection (1): fastapi-container:8001
+2024-09-10 15:17:06 - ERROR - Batch prediction failed: HTTPConnectionPool(host='fastapi-container', port=8001): Max retries exceeded with url: /batch_predict (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001D1C918EA50>: Failed to resolve 'fastapi-container' ([Errno 11001] getaddrinfo failed)"))
+2024-09-10 15:19:00 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:19:00 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:19:00 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:19:02 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:19:02 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:19:02 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:19:08 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:19:08 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:19:08 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:19:08 - INFO - Batch file uploaded with 14 records
+2024-09-10 15:19:08 - DEBUG - Starting new HTTP connection (1): localhost:8001
+2024-09-10 15:19:10 - DEBUG - http://localhost:8001 "POST /batch_predict HTTP/11" 500 165
+2024-09-10 15:19:10 - ERROR - Batch prediction failed due to HTTP error: 500 Server Error: Internal Server Error for url: http://localhost:8001/batch_predict
+2024-09-10 15:23:45 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:23:45 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:23:45 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:23:47 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:23:47 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:23:47 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:23:49 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:23:49 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:23:49 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:23:55 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:23:55 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:23:55 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:23:55 - INFO - Batch file uploaded with 14 records
+2024-09-10 15:23:55 - DEBUG - Starting new HTTP connection (1): localhost:8001
+2024-09-10 15:23:57 - DEBUG - http://localhost:8001 "POST /batch_predict HTTP/11" 500 165
+2024-09-10 15:23:57 - ERROR - Batch prediction failed due to HTTP error: 500 Server Error: Internal Server Error for url: http://localhost:8001/batch_predict
+2024-09-10 15:27:48 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:27:48 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:27:48 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:27:50 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:27:50 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:27:50 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:27:54 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:27:54 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:27:54 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:27:54 - INFO - Batch file uploaded with 14 records
+2024-09-10 15:27:54 - INFO -   age;"job";"marital";"education";"default";"housing";"loan";"contact";"month";"day_of_week";"duration";"campaign";"pdays";"previous";"poutcome";"emp.var.rate";"cons.price.idx";"cons.conf.idx";"euribor3m";"nr.employed"
+0  56;"housemaid";"married";"basic.4y";"no";"no";...                                                                                                                                                                      
+1  57;"services";"married";"high.school";"unknown...                                                                                                                                                                      
+2  37;"services";"married";"high.school";"no";"ye...                                                                                                                                                                      
+3  40;"admin.";"married";"basic.6y";"no";"no";"no...                                                                                                                                                                      
+4  56;"services";"married";"high.school";"no";"no...                                                                                                                                                                      
+5  45;"services";"married";"basic.9y";"unknown";"...                                                                                                                                                                      
+6  59;"admin.";"married";"professional.course";"n...                                                                                                                                                                      
+7  41;"blue-collar";"married";"unknown";"unknown"...                                                                                                                                                                      
+8  24;"technician";"single";"professional.course"...                                                                                                                                                                      
+9  25;"services";"single";"high.school";"no";"yes...                                                                                                                                                                      
+2024-09-10 15:27:54 - DEBUG - Starting new HTTP connection (1): localhost:8001
+2024-09-10 15:27:56 - DEBUG - http://localhost:8001 "POST /batch_predict HTTP/11" 500 165
+2024-09-10 15:27:56 - ERROR - Batch prediction failed due to HTTP error: 500 Server Error: Internal Server Error for url: http://localhost:8001/batch_predict
+2024-09-10 15:29:19 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:29:19 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:29:19 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:29:20 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:29:20 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:29:20 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:29:23 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:29:23 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:29:23 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:29:23 - INFO - Batch file uploaded with 14 records
+2024-09-10 15:29:23 - DEBUG - Starting new HTTP connection (1): localhost:8001
+2024-09-10 15:29:25 - DEBUG - http://localhost:8001 "POST /batch_predict HTTP/11" 500 165
+2024-09-10 15:29:25 - ERROR - Batch prediction failed due to HTTP error: 500 Server Error: Internal Server Error for url: http://localhost:8001/batch_predict
+2024-09-10 15:38:01 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:38:01 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:38:01 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:38:03 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:38:03 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:38:03 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:38:07 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:38:07 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:38:07 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:38:07 - INFO - Batch file uploaded with 20 records
+2024-09-10 15:38:07 - DEBUG - Starting new HTTP connection (1): localhost:8001
+2024-09-10 15:38:09 - DEBUG - http://localhost:8001 "POST /batch_predict HTTP/11" 200 662
+2024-09-10 15:38:09 - INFO - Batch predictions saved to C:\Users\Abhis\OneDrive\Desktop\Mtech-data science\2nd semester\MLOPS project\scripts\..\data\output\batch_predictions.csv
+2024-09-10 15:41:55 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:41:55 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:41:55 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:43:25 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:43:25 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:43:25 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:43:29 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:43:29 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:43:29 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:43:29 - INFO - Batch file uploaded with 20 records
+2024-09-10 15:43:29 - DEBUG - Starting new HTTP connection (1): localhost:8001
+2024-09-10 15:43:31 - DEBUG - http://localhost:8001 "POST /batch_predict HTTP/11" 200 662
+2024-09-10 15:43:31 - INFO - Batch predictions saved to C:\Users\Abhis\OneDrive\Desktop\Mtech-data science\2nd semester\MLOPS project\scripts\..\data\output\batch_predictions.csv
+2024-09-10 15:57:48 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:57:48 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:57:48 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:58:21 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:58:21 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:58:21 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-10 15:58:27 - DEBUG - STREAM b'IHDR' 16 13
+2024-09-10 15:58:27 - DEBUG - STREAM b'PLTE' 41 312
+2024-09-10 15:58:27 - DEBUG - STREAM b'IDAT' 365 5838
+2024-09-11 09:57:33 - INFO - User input data frame created
+2024-09-11 10:49:46 - INFO - User input data frame created
+2024-09-11 10:50:22 - INFO - Batch file uploaded with 15000 records
+2024-09-11 10:50:23 - ERROR - Batch prediction failed: Out of range float values are not JSON compliant: nan
+2024-09-11 10:50:43 - INFO - User input data frame created
+2024-09-11 13:28:23 - INFO - User input data frame created
+2024-09-12 15:10:03 - INFO - User input data frame created
+2024-09-12 15:11:26 - INFO - User input data frame created
+2024-09-12 15:12:27 - INFO - User input data frame created
+2024-09-12 16:11:49 - INFO - User input data frame created
+2024-09-12 16:13:11 - INFO - User input data frame created

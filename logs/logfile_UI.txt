@@ -1,0 +1,24 @@
+2024-09-12 17:12:25 - ERROR - Artifact file not found: C:\Users\HP\Desktop\MLOPS project\scripts\data_processing_pipeline.pkl
+2024-09-12 17:14:18 - INFO - User input data frame created
+2024-09-12 17:18:34 - INFO - User input data frame created
+2024-09-12 17:22:39 - INFO - User input data frame created
+2024-09-12 17:22:39 - INFO - User input data frame is transformed
+2024-09-12 17:22:39 - INFO - Received Prediction: [1]
+2024-09-12 17:25:06 - INFO - User input data frame created
+2024-09-12 17:25:06 - INFO - User input data frame is transformed
+2024-09-12 17:25:06 - INFO - Received Prediction: [1]
+2024-09-12 17:25:37 - INFO - User input data frame created
+2024-09-12 17:25:37 - INFO - User input data frame is transformed
+2024-09-12 17:25:37 - INFO - Prediction: Low
+2024-09-12 20:18:04 - INFO - User input data frame created
+2024-09-12 20:18:04 - INFO - User input data frame is transformed
+2024-09-12 20:18:04 - INFO - Prediction: Low
+2024-09-12 20:25:00 - INFO - User input data frame created
+2024-09-12 20:25:00 - INFO - User input data frame is transformed
+2024-09-12 20:25:00 - INFO - Prediction: Low
+2024-09-12 22:34:35 - INFO - User input data frame created
+2024-09-12 22:34:35 - INFO - User input data frame is transformed
+2024-09-12 22:34:35 - INFO - Prediction: Low
+2024-09-12 23:00:33 - INFO - User input data frame created
+2024-09-12 23:00:33 - INFO - User input data frame is transformed
+2024-09-12 23:00:33 - INFO - Prediction: Low
